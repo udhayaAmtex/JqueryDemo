@@ -1,0 +1,15 @@
+
+
+.header {
+    background-color : blue;
+    text-align: center;
+    margin : 10px 0px 0px 0px;
+}
+
+.option {
+    color: white ;
+    background-color : #d1b6b6;
+    margin: 0px 1px 10px 0;
+    padding: 10px;
+    float: left;
+}
