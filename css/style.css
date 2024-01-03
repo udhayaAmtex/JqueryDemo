@@ -3,7 +3,9 @@
 .header {
     background-color : blue;
     text-align: center;
-    margin : 10px 0px 0px 0px;
+    margin : 10px 0px 10px 0px;
+    width: 35%;
+    margin: auto;
 }
 
 .option {
@@ -13,3 +15,28 @@
     padding: 10px;
     float: left;
 }
+
+.container {
+    text-align: center;
+    width: 30%;
+    margin: auto;
+}
+.container {
+    text-align: left;
+}
+.container div {
+    margin-bottom: 5px;
+}
+.container input {
+    float: right;
+}
+
+td, th {
+    border: 1px solid black;
+    text-align: left;
+    padding: 8px;
+  }
+
+  .studentList {
+    margin: auto;
+  }
